@@ -1,6 +1,4 @@
-vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.214.165:443?type=ws&headerType=none&security=tls&encryption=none&sni=5-backend-infra-m20.g000g.ccwu.cc&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&host=5-backend-infra-m20.g000g.ccwu.cc#США
-vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.213.128:443?security=tls&sni=9-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr&type=ws&host=9-m20.cd6b506e-5a88-4c5d-9e11-906f39613c04.kdns.fr&path=/8qMLgNapWf6SBxo8fhQlVPYO&fp=chrome#США
-vless://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?type=ws&security=tls&fp=chrome#США
-vless://7da33b25-cdd6-e481-afcf-c5d532361a70@ez-1bc8ab.sekiro-c18.workers.dev:443?security=tls&type=ws&path=/sync&host=ez-1bc8ab.sekiro-c18.workers.dev&packetEncoding=xudp&sni=ez-1bc8ab.sekiro-c18.workers.dev&fp=chrome&encryption=none#США
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.18.33.76:2087?encryption=none&security=tls&sni=fq.jp188.dpdns.org&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#США
-vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@172.64.144.145:443?encryption=none&security=tls&sni=gy-cffc3-node-31z7yxejlog9qfu0.lancelot.dpdns.org&type=ws&host=gy-cffc3-node-31z7yxejlog9qfu0.lancelot.dpdns.org&path=%2Ftv%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560#США
+vless://ifejwoic@1.1.1.1:8022#США
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?security=false&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F&fp=ios#США
+vless://4005ddae-29bb-431e-a212-7737316d08ea@185.173.147.6:10444?type=ws&security=none&encryption=none&path=%2Fbeeline&host=vpnpolar.online#США
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@us-backup-ssh.anti-zapret.com:443?encryption=none&security=reality&sni=us.srv.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&flow=xtls-rprx-vision#США
